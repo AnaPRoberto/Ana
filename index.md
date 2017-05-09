@@ -1,13 +1,15 @@
 ## Bem - Vindo a pagina da Ana 
 
-You can use the [editor on GitHub](https://github.com/AnaPRoberto/Ana/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ Você pode usar [editor on GitHub](https://github.com/AnaPRoberto/Ana/edit/master/index.md) Para manter e visualizar o conteúdo do seu site nos arquivos do Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Conheça melhor o Markdown
+Sempre que você se comprometer com este repositório, as Páginas GitHub serão executadas [Jekyll](https://jekyllrb.com/) Para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Biografia
 
+Meu nome é Ana Paula, nasci dia 18/12/2017 
+is a lightweight and easy-to-use syntax for styling your writing. It includes conventions f
+or
 ```markdown
 Syntax highlighted code block
 
